@@ -1,0 +1,7 @@
+{
+    "interaction": {
+        "type":"script",
+        "path":"libXXX.js",
+        "on_change":"reload"
+    }
+}
